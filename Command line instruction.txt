@@ -1,0 +1,1 @@
+C:\Users\vantinya\Desktop\Measurement>java -jar condex.jar C:\Users\vantinya\Desktop\Measurement\notepad-plus-plus-master C:\Users\vantinya\Desktop\Measurement\result.csv
